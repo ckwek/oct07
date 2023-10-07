@@ -1,4 +1,6 @@
-# This is a tst to experiment with GitHub
+# This is a test to experiment with GitHub
+
+Hopefully, all students will be able to follow and enjoy
 
 A very simple test to work with Git. After that, we want to:
 
