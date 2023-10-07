@@ -1,2 +1,7 @@
-# oct07
-this is a test project to experiment with Git
+# This is a tst to experiment with GitHub
+
+A very simple test to work with Git. After that, we want to:
+
+* probably make some more changes
+* collaborate
+* have lunch!
